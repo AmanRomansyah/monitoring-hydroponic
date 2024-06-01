@@ -7,8 +7,8 @@ import paho.mqtt.client as paho
 import telepot
 from telepot.loop import MessageLoop
 
-Aman_id=475749445
-bot = telepot.Bot('1023574477:AAFDMgn1TBpBG1kXdWRfnqHya3b2IHPT1kg')
+Aman_id=******
+bot = telepot.Bot('1023574477:AAFDMgn1TBpBG******qHya3b2IHPT1kg')
 DHT_SENSOR = Adafruit_DHT.DHT11
 gpio = 5
 
