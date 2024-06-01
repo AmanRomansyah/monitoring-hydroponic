@@ -1,2 +1,2 @@
 # monitoring-hydroponic
-hydroponic monitoring with raspberry pi with mqtt as a data delivery protocol and notification from telegram bot
+Hydroponic monitoring with Raspberry Pi using MQTT as a data delivery protocol and notifications from a Telegram bot.
